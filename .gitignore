@@ -4,3 +4,8 @@
 .Ruserdata
 .Renviron
 test.Rproject
+
+git config --global user.name "Imie Nazwisko"
+git config --global user.email "s200684@student.pg.edu.pl"
+
+
